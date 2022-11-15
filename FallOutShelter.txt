@@ -1,0 +1,214 @@
+Nom	Type	Rareté	Force	Perception	Endurence	Charisme	Intelligence	Agillité	Chance	Min dégat	Max dégat
+Poing	Arme	Deffault	0	0	0	0	0	0	0		
+Fusil à air comp. rouillé	Arme	Commun	0	0	0	0	0	0	0	0	1
+Fusil à air comprimé	Arme	Commun	0	0	0	0	0	0	0	0	2
+Pistolet .32 rouillé	Arme	Commun	0	0	0	0	0	0	0	1	1
+Fusil à air comp. amélioré	Arme	Commun	0	0	0	0	0	0	0	0	3
+Pistolet .32	Arme	Commun	0	0	0	0	0	0	0	1	2
+Pistolet .32 amélioré	Arme	Commun	0	0	0	0	0	0	0	1	3
+Pistolet 10 mm rouillé	Arme	Commun	0	0	0	0	0	0	0	2	2
+Pistolet improvisé	Arme	Commun	0	0	0	0	0	0	0	1	3
+Pistolet 10 mm	Arme	Commun	0	0	0	0	0	0	0	2	3
+Calibre .44 à lunette rouillé	Arme	Commun	0	0	0	0	0	0	0	3	3
+Pistolet 10 mm amélioré	Arme	Commun	0	0	0	0	0	0	0	2	4
+Calibre .44 à lunette	Arme	Commun	0	0	0	0	0	0	0	3	4
+Pistolet improvisé à haute sensibilité	Arme	Commun	0	0	0	0	0	0	0	2	5
+Calibre .44 à lunette amélioré	Arme	Commun	0	0	0	0	0	0	0	3	5
+Fusil à levier rouillé	Arme	Commun	0	0	0	0	0	0	0	4	4
+Fusil à levier	Arme	Commun	0	0	0	0	0	0	0	4	5
+Fusil à levier amélioré	Arme	Commun	0	0	0	0	0	0	0	4	6
+Fusil de chasse rouillé	Arme	Commun	0	0	0	0	0	0	0	5	5
+Pistolet improvisé lourd	Arme	Commun	0	0	0	0	0	0	0	3	7
+Fusil de chasse	Arme	Commun	0	0	0	0	0	0	0	5	6
+Fusil canon scié rouillé	Arme	Commun	0	0	0	0	0	0	0	6	6
+Fusil de chasse amélioré	Arme	Commun	0	0	0	0	0	0	0	5	7
+Fusil improvisé	Arme	Commun	0	0	0	0	0	0	0	5	7
+Fusil canon scié	Arme	Commun	0	0	0	0	0	0	0	6	7
+Fusil canon scié amélioré	Arme	Commun	0	0	0	0	0	0	0	6	8
+Pistolet laser rouillé	Arme	Commun	0	0	0	0	0	0	0	7	7
+Fusil à air comp. renforcé	Arme	Rare	0	0	0	0	0	0	0	0	4
+Fusil à air comp. perforant	Arme	Rare	0	0	0	0	0	0	0	0	5
+Pistolet .32 renforcé	Arme	Rare	0	0	0	0	0	0	0	1	4
+Pistolet .32 perforant	Arme	Rare	0	0	0	0	0	0	0	1	5
+Pistolet 10 mm renforcé	Arme	Rare	0	0	0	0	0	0	0	2	5
+Pistolet 10 mm perforant	Arme	Rare	0	0	0	0	0	0	0	2	6
+Queue de billard	Arme	Rare	0	0	0	0	0	0	0	0	8
+Calibre .44 à lunette renforcé	Arme	Rare	0	0	0	0	0	0	0	3	6
+Calibre .44 à lunette perforant	Arme	Rare	0	0	0	0	0	0	0	3	7
+Fusil à levier renforcé	Arme	Rare	0	0	0	0	0	0	0	4	7
+Fusil à levier perforant	Arme	Rare	0	0	0	0	0	0	0	4	8
+Fusil de chasse renforé	Arme	Rare	0	0	0	0	0	0	0	5	8
+Pistolet improvisé à lunette	Arme	Rare	0	0	0	0	0	0	0	4	9
+Couteau de cuisine	Arme	Rare	0	0	0	0	0	0	0	3	11
+Fusil de chasse perforant	Arme	Rare	0	0	0	0	0	0	0	5	9
+Fusil canon scié renforcé	Arme	Rare	0	0	0	0	0	0	0	6	9
+NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Pistolet laser	Arme	Rare	0	0	0	0	0	0	0	7	8
+Fusil d'assaut rouillé	Arme	Rare	0	0	0	0	0	0	0	8	8
+Fusil double canon scié	Arme	Rare	0	0	0	0	0	0	0	6	10
+NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Pistolet laser modifié	Arme	Rare	0	0	0	0	0	0	0	7	9
+Fusil d'assaut	Arme	Rare	0	0	0	0	0	0	0	8	9
+Pistolet laser précis	Arme	Rare	0	0	0	0	0	0	0	7	10
+Fusil cal .12 rouillé	Arme	Rare	0	0	0	0	0	0	0	9	9
+Fusil d'assaut amélioré	Arme	Rare	0	0	0	0	0	0	0	8	10
+NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Pistolet laser surchargé	Arme	Rare	0	0	0	0	0	0	0	7	11
+NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Fusil cal .12	Arme	Rare	0	0	0	0	0	0	0	9	10
+Fusil d'assaut renforcé	Arme	Rare	0	0	0	0	0	0	0	8	11
+Batte de baseball	Arme	Rare	0	0	0	0	0	0	0	5	15
+Fusil cal .12 amélioré	Arme	Rare	0	0	0	0	0	0	0	9	11
+Fusil d'assaut perforant	Arme	Rare	0	0	0	0	0	0	0	8	12
+Fusil de précision rouillé	Arme	Rare	0	0	0	0	0	0	0	10	10
+NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Fusil cal .12 renforcé	Arme	Rare	0	0	0	0	0	0	0	9	12
+Fusil de précision	Arme	Rare	0	0	0	0	0	0	0	10	11
+NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Fusil cal .12 à double canon	Arme	Rare	0	0	0	0	0	0	0	9	13
+Fusil de précision amélioré	Arme	Rare	0	0	0	0	0	0	0	10	12
+Pistolet à plasma rouillé	Arme	Rare	0	0	0	0	0	0	0	11	11
+NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Fusil de précision renforcé	Arme	Rare	0	0	0	0	0	0	0	10	13
+Pistolet à plasma	Arme	Rare	0	0	0	0	0	0	0	11	12
+NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Fusil de précision pénétrant	Arme	Rare	0	0	0	0	0	0	0	10	14
+Fusil improvisé à baïonette	Arme	Rare	0	0	0	0	0	0	0	9	15
+Fusil laser rouillé	Arme	Rare	0	0	0	0	0	0	0	12	12
+Pistolet à plasma modifié	Arme	Rare	0	0	0	0	0	0	0	11	13
+Pistolet de Gauss	Arme	Rare	0	0	0	0	0	0	0	12	12
+NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Fusil laser	Arme	Rare	0	0	0	0	0	0	0	12	13
+Pistolet à plasma précis	Arme	Rare	0	0	0	0	0	0	0	11	14
+Couteau de boucher	Arme	Rare	0	0	0	0	0	0	0	8	18
+Fusil de combat rouillé	Arme	Rare	0	0	0	0	0	0	0	13	13
+Fusil laser modifié	Arme	Rare	0	0	0	0	0	0	0	12	14
+NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Pistolet de Gauss précis	Arme	Rare	0	0	0	0	0	0	0	13	13
+Eventreur	Arme	Rare	0	0	0	0	0	0	0	11	16
+Fusil de combat	Arme	Rare	0	0	0	0	0	0	0	13	14
+Fusil laser précis	Arme	Rare	0	0	0	0	0	0	0	12	15
+Fusil à clous rouillé	Arme	Rare	0	0	0	0	0	0	0	14	14
+Fusil de combat amélioré	Arme	Rare	0	0	0	0	0	0	0	13	15
+Junk jet	Arme	Rare	0	0	0	0	0	0	0	13	15
+Pistolet de Gauss amélioré	Arme	Rare	0	0	0	0	0	0	0	14	14
+NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Fusil à clous	Arme	Rare	0	0	0	0	0	0	0	14	15
+Fusil de combat renforcé	Arme	Rare	0	0	0	0	0	0	0	13	16
+NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Fusil à clous amélioré	Arme	Rare	0	0	0	0	0	0	0	14	16
+NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Lance-flammes rouillé	Arme	Rare	0	0	0	0	0	0	0	15	15
+NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Eventreur renforcé	Arme	Rare	0	0	0	0	0	0	0	13	18
+NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Lance-flammes	Arme	Rare	0	0	0	0	0	0	0	15	16
+Fusil de Gauss rouillé	Arme	Rare	0	0	0	0	0	0	0	16	16
+Lance-flammes amélioré	Arme	Rare	0	0	0	0	0	0	0	15	17
+Pioche	Arme	Rare	0	0	0	0	0	0	0	11	21
+Fusil bouillonant de l'Institut	Arme	Rare	0	0	0	0	0	0	0	15	18
+Fusil de Gauss	Arme	Rare	0	0	0	0	0	0	0	16	17
+Lance-flammes renforcé	Arme	Rare	0	0	0	0	0	0	0	15	18
+Fusil à plasma rouillé	Arme	Rare	0	0	0	0	0	0	0	17	17
+Junk jet tactique	Arme	Rare	0	0	0	0	0	0	0	15	19
+Lance-flammes préssurisé	Arme	Rare	0	0	0	0	0	0	0	15	19
+Fusil à plasma	Arme	Rare	0	0	0	0	0	0	0	17	18
+NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Pistolet de Wild Bill	Arme	Légendaire	0	0	0	0	0	0	0	1	6
+Nomade solitaire	Arme	Légendaire	0	0	0	0	0	0	0	2	7
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Ol' Painless	Arme	Légendaire	0	0	0	0	0	0	0	5	10
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Fin du contrebandier	Arme	Légendaire	0	0	0	0	0	0	0	7	12
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Infiltrateur	Arme	Légendaire	0	0	0	0	0	0	0	8	13
+Fille du fermier	Arme	Légendaire	0	0	0	0	0	0	0	9	14
+Mousquet laser	Arme	Légendaire	0	0	0	0	0	0	0	10	13
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Fusil waser	Arme	Légendaire	0	0	0	0	0	0	0	12	17
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Fusil cal .12 de Charon	Arme	Légendaire	0	0	0	0	0	0	0	13	18
+Poing assisté	Arme	Légendaire	0	0	0	0	0	0	0	13	18
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Poing assisté amélioré	Arme	Légendaire	0	0	0	0	0	0	0	14	19
+Désintégrateur alien	Arme	Légendaire	0	0	0	0	0	0	0	17	17
+Fusil de Gauss amélioré	Arme	Légendaire	0	0	0	0	0	0	0	16	18
+Nas	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Burnmaster	Arme	Légendaire	0	0	0	0	0	0	0	15	20
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Fusil de Gauss renforcé	Arme	Légendaire	0	0	0	0	0	0	0	16	19
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Fusil à plasma modifié	Arme	Légendaire	0	0	0	0	0	0	0	17	19
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Lance-plasma	Arme	Légendaire	0	0	0	0	0	0	0	17	19
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Junk jet électrifié	Arme	Légendaire	0	0	0	0	0	0	0	16	21
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Lance-plasma (alien)	Arme	Légendaire	0	0	0	0	0	0	0	17	21
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Poing assisté personnalisé d'Ed	Arme	Légendaire	0	0	0	0	0	0	0	16	22
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Fusil à plasma surchargé	Arme	Légendaire	0	0	0	0	0	0	0	17	22
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Lance-plasma à agitation	Arme	Légendaire	0	0	0	0	0	0	0	18	22
+Minigun	Arme	Légendaire	0	0	0	0	0	0	0	19	20
+Pistolet alien précis	Arme	Légendaire	0	0	0	0	0	0	0	18	21
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Lance-missiles rouillé	Arme	Légendaire	0	0	0	0	0	0	0	20	20
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Minigun amélioré	Arme	Légendaire	0	0	0	0	0	0	0	19	21
+Monstre vert	Arme	Légendaire	0	0	0	0	0	0	0	17	23
+Pistolet alien surchargé	Arme	Légendaire	0	0	0	0	0	0	0	18	22
+Déstabilisateur	Arme	Légendaire	0	0	0	0	0	0	0	18	23
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Lance-missiles	Arme	Légendaire	0	0	0	0	0	0	0	20	21
+Minigun renforcé	Arme	Légendaire	0	0	0	0	0	0	0	19	22
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Laser Gatling rouillé	Arme	Légendaire	0	0	0	0	0	0	0	21	21
+Minigun perforant	Arme	Légendaire	0	0	0	0	0	0	0	19	23
+Cracheur de plomb	Arme	Légendaire	0	0	0	0	0	0	0	19	24
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Vengeance du tecnicien	Arme	Légendaire	0	0	0	0	0	0	0	18	25
+Epée de pillard impitoyable	Arme	Légendaire	0	0	0	0	0	0	0	16	28
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Fusil de Virgil	Arme	Légendaire	0	0	0	0	0	0	0	19	26
+Lance-miss	Arme	Légendaire	0	0	0	0	0	0	0	20	25
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Vengeance	Arme	Légendaire	0	0	0	0	0	0	0	21	26
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Lance-plasma superchargé	Arme	Légendaire	0	0	0	0	0	0	0	21	27
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Bouche d'incendie	Arme	Légendaire	0	0	0	0	0	0	0	19	31
+NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
