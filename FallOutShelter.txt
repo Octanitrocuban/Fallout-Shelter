@@ -37,24 +37,24 @@ Calibre .44 à lunette renforcé	Arme	Rare	0	0	0	0	0	0	0	3	6
 Calibre .44 à lunette perforant	Arme	Rare	0	0	0	0	0	0	0	3	7
 Fusil à levier renforcé	Arme	Rare	0	0	0	0	0	0	0	4	7
 Fusil à levier perforant	Arme	Rare	0	0	0	0	0	0	0	4	8
-Fusil de chasse renforé	Arme	Rare	0	0	0	0	0	0	0	5	8
+Fusil de chasse renforcé	Arme	Rare	0	0	0	0	0	0	0	5	8
 Pistolet improvisé à lunette	Arme	Rare	0	0	0	0	0	0	0	4	9
 Couteau de cuisine	Arme	Rare	0	0	0	0	0	0	0	3	11
 Fusil de chasse perforant	Arme	Rare	0	0	0	0	0	0	0	5	9
 Fusil canon scié renforcé	Arme	Rare	0	0	0	0	0	0	0	6	9
-NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Fusil improvisé calibré	Arme	Rare	0	0	0	0	0	0	0	6	9
 Pistolet laser	Arme	Rare	0	0	0	0	0	0	0	7	8
 Fusil d'assaut rouillé	Arme	Rare	0	0	0	0	0	0	0	8	8
 Fusil double canon scié	Arme	Rare	0	0	0	0	0	0	0	6	10
-NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Pistolet improvisé automatique	Arme	Rare	0	0	0	0	0	0	0	5	11
 Pistolet laser modifié	Arme	Rare	0	0	0	0	0	0	0	7	9
 Fusil d'assaut	Arme	Rare	0	0	0	0	0	0	0	8	9
 Pistolet laser précis	Arme	Rare	0	0	0	0	0	0	0	7	10
 Fusil cal .12 rouillé	Arme	Rare	0	0	0	0	0	0	0	9	9
 Fusil d'assaut amélioré	Arme	Rare	0	0	0	0	0	0	0	8	10
-NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Fusil long improvisé	Arme	Rare	0	0	0	0	0	0	0	7	11
 Pistolet laser surchargé	Arme	Rare	0	0	0	0	0	0	0	7	11
-NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Tête de laserotron rouillé	Arme	Rare	0	0	0	0	0	0	0	7	11
 Fusil cal .12	Arme	Rare	0	0	0	0	0	0	0	9	10
 Fusil d'assaut renforcé	Arme	Rare	0	0	0	0	0	0	0	8	11
 Batte de baseball	Arme	Rare	0	0	0	0	0	0	0	5	15
@@ -62,10 +62,10 @@ Fusil cal .12 amélioré	Arme	Rare	0	0	0	0	0	0	0	9	11
 Fusil d'assaut perforant	Arme	Rare	0	0	0	0	0	0	0	8	12
 Fusil de précision rouillé	Arme	Rare	0	0	0	0	0	0	0	10	10
 NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
-NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Tête de laserotron	Arme	Rare	0	0	0	0	0	0	0	8	12
 Fusil cal .12 renforcé	Arme	Rare	0	0	0	0	0	0	0	9	12
 Fusil de précision	Arme	Rare	0	0	0	0	0	0	0	10	11
-NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Fusil improvisé à vision nocturne	Arme	Rare	0	0	0	0	0	0	0	8	13
 Fusil cal .12 à double canon	Arme	Rare	0	0	0	0	0	0	0	9	13
 Fusil de précision amélioré	Arme	Rare	0	0	0	0	0	0	0	10	12
 Pistolet à plasma rouillé	Arme	Rare	0	0	0	0	0	0	0	11	11
@@ -74,7 +74,7 @@ Fusil de précision renforcé	Arme	Rare	0	0	0	0	0	0	0	10	13
 Pistolet à plasma	Arme	Rare	0	0	0	0	0	0	0	11	12
 NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
 Fusil de précision pénétrant	Arme	Rare	0	0	0	0	0	0	0	10	14
-Fusil improvisé à baïonette	Arme	Rare	0	0	0	0	0	0	0	9	15
+Fusil improvisé à baïonnette	Arme	Rare	0	0	0	0	0	0	0	9	15
 Fusil laser rouillé	Arme	Rare	0	0	0	0	0	0	0	12	12
 Pistolet à plasma modifié	Arme	Rare	0	0	0	0	0	0	0	11	13
 Pistolet de Gauss	Arme	Rare	0	0	0	0	0	0	0	12	12
@@ -85,7 +85,7 @@ Pistolet à plasma précis	Arme	Rare	0	0	0	0	0	0	0	11	14
 Couteau de boucher	Arme	Rare	0	0	0	0	0	0	0	8	18
 Fusil de combat rouillé	Arme	Rare	0	0	0	0	0	0	0	13	13
 Fusil laser modifié	Arme	Rare	0	0	0	0	0	0	0	12	14
-NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Pistolet amélioré de l'institut	Arme	Rare	0	0	0	0	0	0	0	11	15
 Pistolet de Gauss précis	Arme	Rare	0	0	0	0	0	0	0	13	13
 Eventreur	Arme	Rare	0	0	0	0	0	0	0	11	16
 Fusil de combat	Arme	Rare	0	0	0	0	0	0	0	13	14
@@ -94,14 +94,14 @@ Fusil à clous rouillé	Arme	Rare	0	0	0	0	0	0	0	14	14
 Fusil de combat amélioré	Arme	Rare	0	0	0	0	0	0	0	13	15
 Junk jet	Arme	Rare	0	0	0	0	0	0	0	13	15
 Pistolet de Gauss amélioré	Arme	Rare	0	0	0	0	0	0	0	14	14
-NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Eventreur amélioré	Arme	Rare	0	0	0	0	0	0	0	12	17
 Fusil à clous	Arme	Rare	0	0	0	0	0	0	0	14	15
 Fusil de combat renforcé	Arme	Rare	0	0	0	0	0	0	0	13	16
 NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
 Fusil à clous amélioré	Arme	Rare	0	0	0	0	0	0	0	14	16
 NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
 Lance-flammes rouillé	Arme	Rare	0	0	0	0	0	0	0	15	15
-NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Pistolet de Gauss renforcé	Arme	Rare	0	0	0	0	0	0	0	15	15
 Eventreur renforcé	Arme	Rare	0	0	0	0	0	0	0	13	18
 NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
 Lance-flammes	Arme	Rare	0	0	0	0	0	0	0	15	16
@@ -198,7 +198,7 @@ Epée de pillard impitoyable	Arme	Légendaire	0	0	0	0	0	0	0	16	28
 NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
 NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
 NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
-NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Fat Man	Arme	Légendaire	0	0	0	0	0	0	0	22	23
 Fusil de Virgil	Arme	Légendaire	0	0	0	0	0	0	0	19	26
 Lance-miss	Arme	Légendaire	0	0	0	0	0	0	0	20	25
 NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
