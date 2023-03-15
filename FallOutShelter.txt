@@ -69,23 +69,23 @@ Fusil improvisé à vision nocturne	Arme	Rare	0	0	0	0	0	0	0	8	13
 Fusil cal .12 à double canon	Arme	Rare	0	0	0	0	0	0	0	9	13
 Fusil de précision amélioré	Arme	Rare	0	0	0	0	0	0	0	10	12
 Pistolet à plasma rouillé	Arme	Rare	0	0	0	0	0	0	0	11	11
-NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Tête de laserotron améliorée	Arme	Rare	0	0	0	0	0	0	0	9	13
 Fusil de précision renforcé	Arme	Rare	0	0	0	0	0	0	0	10	13
 Pistolet à plasma	Arme	Rare	0	0	0	0	0	0	0	11	12
-NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Pistolet incendiaire de l'Institut	Arme	Rare	0	0	0	0	0	0	0	10	13
 Fusil de précision pénétrant	Arme	Rare	0	0	0	0	0	0	0	10	14
 Fusil improvisé à baïonnette	Arme	Rare	0	0	0	0	0	0	0	9	15
 Fusil laser rouillé	Arme	Rare	0	0	0	0	0	0	0	12	12
 Pistolet à plasma modifié	Arme	Rare	0	0	0	0	0	0	0	11	13
-Pistolet de Gauss	Arme	Rare	0	0	0	0	0	0	0	12	12
-NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
-NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Pistolet de Gauss rouillé	Arme	Rare	0	0	0	0	0	0	0	12	12
+Tête de laserotron renforcée	Arme	Rare	0	0	0	0	0	0	0	10	14
+Eventreur rouillé	Arme	Rare	0	0	0	0	0	0	0	10	15
 Fusil laser	Arme	Rare	0	0	0	0	0	0	0	12	13
 Pistolet à plasma précis	Arme	Rare	0	0	0	0	0	0	0	11	14
 Couteau de boucher	Arme	Rare	0	0	0	0	0	0	0	8	18
 Fusil de combat rouillé	Arme	Rare	0	0	0	0	0	0	0	13	13
 Fusil laser modifié	Arme	Rare	0	0	0	0	0	0	0	12	14
-Pistolet amélioré de l'institut	Arme	Rare	0	0	0	0	0	0	0	11	15
+Pistolet amélioré de l'Institut	Arme	Rare	0	0	0	0	0	0	0	11	15
 Pistolet de Gauss précis	Arme	Rare	0	0	0	0	0	0	0	13	13
 Eventreur	Arme	Rare	0	0	0	0	0	0	0	11	16
 Fusil de combat	Arme	Rare	0	0	0	0	0	0	0	13	14
@@ -97,13 +97,13 @@ Pistolet de Gauss amélioré	Arme	Rare	0	0	0	0	0	0	0	14	14
 Eventreur amélioré	Arme	Rare	0	0	0	0	0	0	0	12	17
 Fusil à clous	Arme	Rare	0	0	0	0	0	0	0	14	15
 Fusil de combat renforcé	Arme	Rare	0	0	0	0	0	0	0	13	16
-NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Pistolet à lunette de l'Institut	Arme	Rare	0	0	0	0	0	0	0	12	17
 Fusil à clous amélioré	Arme	Rare	0	0	0	0	0	0	0	14	16
-NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Fusil de l'Institut	Arme	Rare	0	0	0	0	0	0	0	14	16
 Lance-flammes rouillé	Arme	Rare	0	0	0	0	0	0	0	15	15
 Pistolet de Gauss renforcé	Arme	Rare	0	0	0	0	0	0	0	15	15
 Eventreur renforcé	Arme	Rare	0	0	0	0	0	0	0	13	18
-NaS	Arme	Rare	0	0	0	0	0	0	0	NaN	NaN
+Junk Jet à compensation de recul	Arme	Rare	0	0	0	0	0	0	0	14	17
 Lance-flammes	Arme	Rare	0	0	0	0	0	0	0	15	16
 Fusil de Gauss rouillé	Arme	Rare	0	0	0	0	0	0	0	16	16
 Lance-flammes amélioré	Arme	Rare	0	0	0	0	0	0	0	15	17
@@ -131,7 +131,7 @@ NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
 NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
 NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
 NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
-NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Fusil laser surchargé	Arme	Légendaire	0	0	0	0	0	0	0	12	16
 Fusil waser	Arme	Légendaire	0	0	0	0	0	0	0	12	17
 NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
 NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
@@ -162,7 +162,7 @@ NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
 NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
 Junk jet électrifié	Arme	Légendaire	0	0	0	0	0	0	0	16	21
 NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
-NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Pistolet alien	Arme	Légendaire	0	0	0	0	0	0	0	18	19
 NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
 Lance-plasma (alien)	Arme	Légendaire	0	0	0	0	0	0	0	17	21
 NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
@@ -192,11 +192,11 @@ Laser Gatling rouillé	Arme	Légendaire	0	0	0	0	0	0	0	21	21
 Minigun perforant	Arme	Légendaire	0	0	0	0	0	0	0	19	23
 Cracheur de plomb	Arme	Légendaire	0	0	0	0	0	0	0	19	24
 NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
-NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Laser Gatling	Arme	Légendaire	0	0	0	0	0	0	0	21	22
 Vengeance du tecnicien	Arme	Légendaire	0	0	0	0	0	0	0	18	25
 Epée de pillard impitoyable	Arme	Légendaire	0	0	0	0	0	0	0	16	28
 NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
-NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
+Hache de Grognak	Arme	Légendaire	0	0	0	0	0	0	0	18	26
 NaS	Arme	Légendaire	0	0	0	0	0	0	0	NaN	NaN
 Fat Man	Arme	Légendaire	0	0	0	0	0	0	0	22	23
 Fusil de Virgil	Arme	Légendaire	0	0	0	0	0	0	0	19	26
